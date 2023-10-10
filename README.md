@@ -2,7 +2,7 @@
 
 ## Description
 
-The Fritts Startup Website is a React-based project designed to showcase our innovative startup and provide visitors with information about our products, services, and mission. This website serves as a digital storefront for Fritts, helping us connect with potential customers and investors.
+The Fritts Website is a React-based project designed to showcase our innovative startup and provide visitors with information about our products, services, and mission. This website serves as a digital storefront for Fritts, helping us connect with potential customers and investors.
 
 ## Live demonstration
 
